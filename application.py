@@ -12,7 +12,6 @@ from langchain.llms import HuggingFaceHub
 from transformers import pipeline
 import PyPDF2  # For extracting text from PDF files
 from PIL import Image
-import openai
 
 
 # Inclure les styles CSS personnalisés pour un thème sombre
