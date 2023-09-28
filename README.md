@@ -3,14 +3,12 @@ The application is a Streamlit-based chatbot interface that allows users to inte
 # Data
 The Hugging Face language model has been trained using the popular SQuAD dataset, a benchmark for Question Answering tasks, ensuring robust performance in answering questions based on the provided text.
 # Features
-Model Selection: Users can choose between two models, OpenAI and Hugging Face.
-PDF Analysis: Allows users to upload a PDF document for analysis.
-Question-Answering: Users can ask questions about the PDF document and get answers based on the chosen model.
+- Model Selection: Users can choose between two models, OpenAI and Hugging Face.
+- PDF Analysis: Allows users to upload a PDF document for analysis.
+- Question-Answering: Users can ask questions about the PDF document and get answers based on the chosen model.
 # Usage
-1. Cloning the Repository
-Clone the repository from GitHub to your local machine using the command: git clone
-2. Installing Dependencies
-To install the required dependencies, use: pip install -r requirements.txt
-3. Running the Application
-Launch the application using the following command: streamlit run application.py
+To run the application locally, follow these steps:
+1. Clone the repository from GitHub to your local machine using the command: git clone
+2. Install the required dependencies using: pip install -r requirements.txt
+3. Launch the application using the following command: streamlit run application.py
 
