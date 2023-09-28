@@ -8,7 +8,7 @@ The Hugging Face language model has been trained using the popular SQuAD dataset
 - Question-Answering: Users can ask questions about the PDF document and get answers based on the chosen model.
 # Usage
 To run the application locally, follow these steps:
-1. Clone the repository from GitHub to your local machine using the command: git clone
+1. Clone the repository from GitHub to your local machine using the command: git clone https://github.com/AichaMsalek/Chatbot.git
 2. Install the required dependencies using: pip install -r requirements.txt
 3. Launch the application using the following command: streamlit run application.py
 
